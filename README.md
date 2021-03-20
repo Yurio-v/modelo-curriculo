@@ -1,2 +1,2 @@
-# site-basico
-Meu primeiro projeto básico de site, com HTML e CSS.
+# modelo-de-curriculo-basico
+contém apenas html.
